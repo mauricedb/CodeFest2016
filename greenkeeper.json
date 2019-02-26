@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "src/CodeFest2016/package.json"
+      ]
+    }
+  }
+}
